@@ -1,4 +1,8 @@
+![image](github_banner.png)
+
 # Welcome to Addepto\!🚀
+
+
 
 ## Who are we? 🧐
 
