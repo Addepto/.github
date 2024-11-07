@@ -17,6 +17,7 @@ Our team of skilled AI and data experts, including Data Scientists and Engineers
 [ContextClue](https://context-clue.com/), developed by Addepto, is an advanced LLM-Based **AI knowledge management assistant** designed to enhance document insights and streamline information processing. It summarizes content in multiple formats, simplifies complex topics, and extracts desired information from documents spread across the entire company. Based on customized templates, it also generates new documents and reports, populating them with chosen data.
 
 ## ContextCheck
+![image](contextcheck_logo_violet.png)
 
 [ContextCheck](https://github.com/Addepto/contextcheck), is a **free OpenSource framework** for LLM application development, built to empower developers and researchers in evaluating their RAG-powered systems and chatbots, optimizing performance, and ensuring comprehensive coverage of all use cases. It offers a robust suite of features to detect regressions, conduct penetration tests, and assess hallucinations, ensuring your AI operates at its highest level. Configurable via YAML and seamlessly integrated into CI pipelines, ContextCheck streamlines development while reinforcing the reliability and robustness of your AI systems.
 
