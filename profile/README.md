@@ -1,4 +1,4 @@
-![image](github_banner.png)
+![image](github_banner_community.png)
 
 # Welcome to Addepto\!🚀
 
