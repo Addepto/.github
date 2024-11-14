@@ -6,11 +6,11 @@
 
 ## Who are we? 🧐
 
-Addepto is an AI consulting company known for delivering **custom AI & data-driven solutions**. We specialize in helping global enterprises speed up process automation and optimize operations using advanced technologies, including cutting-edge generative AI solutions tailored to each client's unique needs and challenges.
+Addepto is an AI consulting company known for creating custom, data-driven AI solutions. We’re a team of problem-solvers and AI enthusiasts who don’t just consult—we dive in, get creative, and make things happen.
 
-Our team of skilled AI and data experts, including Data Scientists and Engineers, is always pushing the boundaries of AI and looking for ways to bring real-world value to specific domains through artificial intelligence.
+What makes us different? It’s our collaborative spirit and our love for sharing knowledge. Every team member brings their own spin to the table, so we’re always learning from each other, creating fresh ideas, and tackling complex challenges with a creative twist.
 
-* [Join our AI & Big Data Team](https://addepto.com/career/) and add value with data\! 
+#### Want to be a part of our team? [Join us](https://addepto.com/career/) and add value with data\! 
 
 ## ContextClue 
 ![image](contextclue_logo.png)
