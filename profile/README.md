@@ -4,7 +4,7 @@
 
 
 
-## Who are we? 🧐
+## Who are we?
 
 Addepto is an AI consulting company known for creating custom, data-driven AI solutions. We’re a team of problem-solvers and AI enthusiasts who don’t just consult—we dive in, get creative, and make things happen.
 
