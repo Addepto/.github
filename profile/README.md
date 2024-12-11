@@ -20,7 +20,7 @@ What makes us different? It’s our collaborative spirit and our love for sharin
 ## ContextCheck
 ![image](contextcheck_logo_violet.png)
 
-[ContextCheck](https://github.com/Addepto/contextcheck), is a **free OpenSource framework** for LLM application development, built to empower developers and researchers in evaluating their RAG-powered systems and chatbots, optimizing performance, and ensuring comprehensive coverage of all use cases. It offers a robust suite of features to detect regressions, conduct penetration tests, and assess hallucinations, ensuring your AI operates at its highest level. Configurable via YAML and seamlessly integrated into CI pipelines, ContextCheck streamlines development while reinforcing the reliability and robustness of your AI systems.
+[ContextCheck](https://github.com/Addepto/contextcheck), is a **free, open source, MIT-licensed framework for testing, evaluating LLMs, RAGs, and chatbots**. ContextCheck can detect regressions, perform penetration tests, and assess hallucinations, ensuring your AI systems function at their highest level. It is built to help developers, researchers and businesses in evaluating their RAG-powered systems and chatbots, optimizing performance, and ensuring comprehensive coverage of all use cases. Configurable via YAML and easily integrated into CI pipelines, ContextCheck streamlines development while enhancing the reliability and robustness of your generative AI systems.
 
 ### Are you looking for an AI Solution Provider?
 
