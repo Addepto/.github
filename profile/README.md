@@ -13,7 +13,7 @@ What makes us different? It’s our collaborative spirit and our love for sharin
 #### Want to be a part of our team? [Join us](https://addepto.com/career/) and add value with data\! 
 
 ## ContextClue 
-![image](contextclue_logo.png)
+![image](logo_cc_new.png)
 
 [ContextClue](https://context-clue.com/), developed by Addepto, is an advanced LLM-Based **AI knowledge management assistant** designed to enhance document insights and streamline information processing. It summarizes content in multiple formats, simplifies complex topics, and extracts desired information from documents spread across the entire company. Based on customized templates, it also generates new documents and reports, populating them with chosen data.
 
